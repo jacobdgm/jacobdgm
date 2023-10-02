@@ -16,6 +16,8 @@ My interest in music and music theory has inspired many of my personal projects.
 - While at the [Recurse Center](https://www.recurse.com) in summer 2021, I collaborated with [@jackckelly](https://github.com/jackckelly) on **[irish-tunes](https://github.com/jacobdgm/irish-tunes)**, an effort to train a language model to generate traditional Irish dance tunes. While we didn't end up creating a tool to generate an infinite quantity of new and interesting trad tunes, I was pleased and surprised by the progress we made (in that by the end, our neural network was outputting tunes with mostly the right number of beats per measure). I spent much of my time exploring our training dataset and figuring out how to clean it and convert it into the most useful form possible.
 - Also at Recurse Center, I collaborated with [@maneshd](https://github.com/maneshd) to make **[kebyar](https://github.com/jacobdgm/kebyar/)**, a tool for exploring the interlocking patterns found in Balinese gamelan music using [tone.js](https://tonejs.github.io) and [p5.js](https://p5js.org).
 
+<!-- https://github.com/jacobdgm/music-theory-tools -->
+
 <!--
 - things I'm proud of
 - hings I'm interested in
