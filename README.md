@@ -1,6 +1,6 @@
-## Jacob deGroot-Maggetti
+## jacobdgm
 
-Hi, I'm Jacob dGM! I'm a web developer, learner and musician.
+Hi, I'm Jacob deGroot-Maggetti! I'm a web developer, learner and musician.
 
 ### I'm a programmer
 
