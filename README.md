@@ -1,6 +1,12 @@
 ### Hi, I'm Jacob 👋
 
+I'm a web developer and a musician.
+
 <!--
+- things I'm proud of
+- things I'm interested in
+- things I'm currently learning
+
 **jacobdgm/jacobdgm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
