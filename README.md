@@ -6,10 +6,11 @@ My personal website is https://jacobdgm.com, and you can reach me at jacob@jacob
 
 ### I'm a programmer
 
-Since May 2022, I've been working as a software developer at the [Distributed Digital Music Archives and Libraries](https://ddmal.music.mcgill.ca) (DDMAL) Lab at McGill University, where I mostly work mostly with Python and Django. I've also worked on a handful of personal projects, mostly in Python, many of which are outlined below.
+Day-to-day, I program mostly in Python and Django. I've also worked on a handful of personal projects, most of them in Python, many of which are outlined below.
 
-I'm particularly proud of my work on:
-- [Cantus Database](https://cantusdatabase.org)! During my time at DDMAL, I've worked to reverse-engineer this long-running database of Gregorian chant in Django (the original database was passed from researcher to researcher on hard disks, and then for many years, it lived online with Drupal running under the hood). I spent a year working as lead developer on the project, and the updated site launched in July 2023.
+I'm particularly proud of:
+- **[Cantus Database](https://cantusdatabase.org)** — During my time as a software developer at the [Distributed Digital Music Archives and Libraries](https://ddmal.music.mcgill.ca) (DDMAL) Lab, I've worked to reverse-engineer this long-running database of Gregorian chant in Django (the original database was passed from researcher to researcher on hard disks, and then for many years, it lived online with Drupal running under the hood). I spent a year as lead developer of the project, and the updated site launched in July 2023.
+- **[jacobdgm.com](https://jacobdgm.com)** — I'm inordinately proud of my personal website, mostly for the content on the site and the lessons I learned while growing it.
 
 ### I'm a learner
 
@@ -36,7 +37,7 @@ As a musician, I mostly play Irish traditional music on violin, guitar, mandolin
 
 My interest in music and music theory has inspired many of my personal projects.
 - Though **[fretboard-generator](https://github.com/jacobdgm/fretboard-generator/tree/main)** was an early project, this collection of functions for generating fretboard diagrams for fretted string instruments continues to do its job well, and I still use it from time to time.
-- **[pitch-classes](https://github.com/jacobdgm/pitch-classes)**, and its successor [Music Theory Tools](https://github.com/jacobdgm/music-theory-tools), are collections of functions for exploring musical scales in alternate tuning systems.
+- **[pitch-classes](https://github.com/jacobdgm/pitch-classes)**, and its successor **[Music Theory Tools](https://github.com/jacobdgm/music-theory-tools)**, are collections of functions for exploring musical scales in alternate tuning systems.
 -  **[irish-tunes](https://github.com/jacobdgm/irish-tunes)** was an effort (in collaboration with [@jackckelly](https://github.com/jackckelly)) to train a language model to generate traditional Irish dance tunes. While we didn't end up creating a tool to generate an infinite quantity of new and interesting trad tunes, I was pleased and surprised by the progress we made (in that by the end, our neural network was outputting tunes with mostly the right number of beats per measure)!
 - **[kebyar](https://github.com/jacobdgm/kebyar/)** (built in collaboration with [@maneshd](https://github.com/maneshd)) is a tool for exploring the interlocking patterns found in Balinese gamelan music.
 
