@@ -31,6 +31,10 @@ A couple of my central interests are pedagogy and effective learning techniques.
   - about navigating a big, existing codebase
   - about collaborating on an active project using Git and GitHub
   - about Docker and Nginx
+ 
+Lately, I've been spending time learning:
+- to play Irish tin whistle
+- to make better use of Vim
 
 ### I'm a musician
 
