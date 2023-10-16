@@ -2,6 +2,8 @@
 
 Hi, I'm Jacob deGroot-Maggetti! I think of myself as a programmer, a learner and a musician.
 
+My personal website is https://jacobdgm.com, and you can reach me at jacob@jacobdgm.com.
+
 ### I'm a learner
 
 A couple of my central interests are pedagogy and effective learning techniques. When learning facts, I take advantage of spaced repetition, interleaving, and above all, active recall. When learning and teaching new skills, I learn primarily by doing, complementing this with relevant factual learning. Since I began to learn to program during the pandemic, I've learned a bunch of new skills while working on a series of projects:
