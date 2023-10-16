@@ -1,8 +1,10 @@
 ## jacobdgm
 
-Hi, I'm Jacob deGroot-Maggetti! I think of myself as a programmer, a learner and a musician.
+Hi, I'm Jacob deGroot-Maggetti! I think of myself as a [programmer](#im-a-programmer), [learner](#im-a-learner) and [musician](#im-a-learner).
 
 My personal website is https://jacobdgm.com, and you can reach me at jacob@jacobdgm.com.
+
+### I'm a programmer
 
 ### I'm a learner
 
@@ -32,8 +34,6 @@ My interest in music and music theory has inspired many of my personal projects.
 - **[pitch-classes](https://github.com/jacobdgm/pitch-classes)** is a collection of functions for exploring musical scales in alternate tuning systems.
 -  **[irish-tunes](https://github.com/jacobdgm/irish-tunes)** was an effort (in collaboration with [@jackckelly](https://github.com/jackckelly)) to train a language model to generate traditional Irish dance tunes. While we didn't end up creating a tool to generate an infinite quantity of new and interesting trad tunes, I was pleased and surprised by the progress we made (in that by the end, our neural network was outputting tunes with mostly the right number of beats per measure)!
 - **[kebyar](https://github.com/jacobdgm/kebyar/)** (built in collaboration with [@maneshd](https://github.com/maneshd)) is a tool for exploring the interlocking patterns found in Balinese gamelan music.
-
-### I'm a programmer
 
 
 <!-- https://github.com/jacobdgm/music-theory-tools -->
