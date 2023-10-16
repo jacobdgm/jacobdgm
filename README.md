@@ -1,6 +1,6 @@
 ## jacobdgm
 
-Hi, I'm Jacob deGroot-Maggetti! I think of myself as a learner, a musician, and a programmer.
+Hi, I'm Jacob deGroot-Maggetti! I think of myself as a programmer, a learner and a musician.
 
 ### I'm a learner
 
@@ -15,7 +15,11 @@ A couple of my central interests are pedagogy and effective learning techniques.
 - Working with [@jackckelly](https://github.com/jackckelly) on **[irish-tunes](https://github.com/jacobdgm/irish-tunes)**, I learned about Jupyter Notebooks, pandas, and cleaning and standardizing data from a range of sources.
 - Working with [@maneshd](https://github.com/maneshd) on **[kebyar](https://github.com/jacobdgm/kebyar/)**, I learned about programming in JavaScript, got a taste of the quirks and peculiarities of various web browsers, and had my first experience diving deep into documentation as we worked with [tone.js](https://tonejs.github.io) and [p5.js](https://p5js.org).
 - I worked on these last two projects during my time at [Recurse Center](https://www.recurse.com) in summer 2021, an organization that does a great job modelling learning by doing!
-- I've spent the past year and a bit working at [DDMAL](https://ddmal.music.mcgill.ca), developing [CANTUS Database](https://cantusdatabase.org).
+- I've spent the past year and a bit working at [DDMAL](https://ddmal.music.mcgill.ca), developing **[CANTUS Database](https://cantusdatabase.org)** ([code](https://github.com/DDMAL/CantusDB)). I learned a great deal working on this project:
+  - about Django
+  - about navigating a big, existing codebase
+  - about collaborating on an active project using Git and GitHub
+  - about Docker and Nginx
 
 ### I'm a musician
 
