@@ -6,6 +6,11 @@ My personal website is https://jacobdgm.com, and you can reach me at jacob@jacob
 
 ### I'm a programmer
 
+Since May 2022, I've been working as a software developer at the [Distributed Digital Music Archives and Libraries](https://ddmal.music.mcgill.ca) (DDMAL) Lab at McGill University, where I mostly work mostly with Python and Django. I've also worked on a handful of personal projects, mostly in Python, many of which are outlined below.
+
+I'm particularly proud of my work on:
+- [Cantus Database](https://cantusdatabase.org)! During my time at DDMAL, I've worked to reverse-engineer this long-running database of Gregorian chant in Django (the original database was passed from researcher to researcher on hard disks, and then for many years, it lived online with Drupal running under the hood). I spent a year working as lead developer on the project, and the updated site launched in July 2023.
+
 ### I'm a learner
 
 A couple of my central interests are pedagogy and effective learning techniques. When learning facts, I take advantage of spaced repetition, interleaving, and above all, active recall. When learning new skills, I learn primarily by doing, complementing this with relevant factual learning. Since I began to learn to program during the pandemic, I've learned a bunch of new skills while working on a series of projects:
