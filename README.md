@@ -37,7 +37,7 @@ As a musician, I mostly play Irish traditional music on violin, guitar, mandolin
 
 My interest in music and music theory has inspired many of my personal projects.
 - Though **[fretboard-generator](https://github.com/jacobdgm/fretboard-generator/tree/main)** was an early project, this collection of functions for generating fretboard diagrams for fretted string instruments continues to do its job well, and I still use it from time to time.
-- **[pitch-classes](https://github.com/jacobdgm/pitch-classes)**, and its successor **[Music Theory Tools](https://github.com/jacobdgm/music-theory-tools)**, are collections of functions for exploring musical scales in alternate tuning systems.
+- **[pitch-classes](https://github.com/jacobdgm/pitch-classes)**, and its successor **[music-theory-tools](https://github.com/jacobdgm/music-theory-tools)**, are collections of functions for exploring musical scales in alternate tuning systems.
 -  **[irish-tunes](https://github.com/jacobdgm/irish-tunes)** was an effort (in collaboration with [@jackckelly](https://github.com/jackckelly)) to train a language model to generate traditional Irish dance tunes. While we didn't end up creating a tool to generate an infinite quantity of new and interesting trad tunes, I was pleased and surprised by the progress we made (in that by the end, our neural network was outputting tunes with mostly the right number of beats per measure)!
 - **[kebyar](https://github.com/jacobdgm/kebyar/)** (built in collaboration with [@maneshd](https://github.com/maneshd)) is a tool for exploring the interlocking patterns found in Balinese gamelan music.
 
