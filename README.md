@@ -9,8 +9,8 @@ My personal website is https://jacobdgm.com, and you can reach me at jacob@jacob
 Day-to-day, I program mostly in Python and Django. I've also worked on a handful of personal projects, most of them in Python, many of which are outlined below.
 
 I'm particularly proud of:
-- **[Cantus Database](https://cantusdatabase.org)** — During my time as a software developer at the [Distributed Digital Music Archives and Libraries](https://ddmal.music.mcgill.ca) (DDMAL) Lab, I've worked to reverse-engineer this long-running database of Gregorian chant in Django (the original database was passed from researcher to researcher on hard disks, and then for many years, it lived online with Drupal running under the hood). I spent a year as lead developer of the project, and the updated site launched in July 2023.
-- **[jacobdgm.com](https://jacobdgm.com)** — I'm inordinately proud of my personal website, mostly for the content on the site and the lessons I learned while growing it.
+- **[Cantus Database](https://cantusdatabase.org)**—During my time as a software developer at the [Distributed Digital Music Archives and Libraries](https://ddmal.music.mcgill.ca) (DDMAL) Lab, I've worked to reverse-engineer this long-running database of Gregorian chant in Django (the original database was passed from researcher to researcher on hard disks, and then for many years, it lived online with Drupal running under the hood). I spent a year as lead developer of the project, and the updated site launched in July 2023.
+- **[jacobdgm.com](https://jacobdgm.com)**—I'm inordinately proud of my personal website, mostly for the content on the site and the lessons I learned while growing it.
 
 ### I'm a learner
 
@@ -24,7 +24,7 @@ A couple of my central interests are pedagogy and effective learning techniques.
 - From **[pitch-classes](https://github.com/jacobdgm/pitch-classes)**, I learned about classes in Python and object-oriented programming, and about unit testing and test-driven development.
 - Working with [@jackckelly](https://github.com/jackckelly) on **[irish-tunes](https://github.com/jacobdgm/irish-tunes)**, I learned about Jupyter Notebooks, pandas, and cleaning and standardizing data from a range of sources.
 - Working with [@maneshd](https://github.com/maneshd) on **[kebyar](https://github.com/jacobdgm/kebyar/)**, I learned about programming in JavaScript, got a taste of the quirks and peculiarities of various web browsers, and had my first experience diving deep into documentation as we worked with [tone.js](https://tonejs.github.io) and [p5.js](https://p5js.org).
-- I worked on these last two projects during my time at [Recurse Center](https://www.recurse.com) in summer 2021, an organization that does a great job modelling learning by doing!
+- (I worked on these last two projects during my time at [Recurse Center](https://www.recurse.com) in summer 2021, an organization that does a great job modelling learning by doing!)
 - I've spent the past year and a bit working at [DDMAL](https://ddmal.music.mcgill.ca), developing **[CANTUS Database](https://cantusdatabase.org)** ([code](https://github.com/DDMAL/CantusDB)). I learned a great deal working on this project:
   - about Django
   - about navigating a big, existing codebase
