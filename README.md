@@ -11,6 +11,7 @@ Day-to-day, I program mostly in Python and Django. I've also worked on a handful
 I'm particularly proud of:
 - **[Cantus Database](https://cantusdatabase.org)**—During my time as a software developer at the [Distributed Digital Music Archives and Libraries](https://ddmal.music.mcgill.ca) (DDMAL) Lab, I've worked to reverse-engineer this long-running database of Gregorian chant in Django (the original database was passed from researcher to researcher on hard disks, and then for many years, it lived online with Drupal running under the hood). I spent a year as lead developer of the project, and the updated site launched in July 2023.
 - **[jacobdgm.com](https://jacobdgm.com)**—I'm inordinately proud of my personal website, mostly for the content on the site and the lessons I learned while growing it.
+- **[fretboard-generator](https://github.com/jacobdgm/fretboard-generator/)**—fretboard-generator is a collection of functions for generating fretboard diagrams for fretted string instruments.
 
 ### I'm a learner
 
