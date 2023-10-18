@@ -1,6 +1,6 @@
 ## jacobdgm
 
-Hi, I'm Jacob deGroot-Maggetti! I think of myself as a [programmer](#im-a-programmer), [learner](#im-a-learner) and [musician](#im-a-musician).
+Hi, I'm Jacob deGroot-Maggetti! I'm a [programmer](#im-a-programmer), [learner](#im-a-learner) and [musician](#im-a-musician).
 
 My personal website is https://jacobdgm.com, and you can reach me at jacob@jacobdgm.com.
 
