@@ -32,9 +32,9 @@ A couple of my central interests are pedagogy and effective learning techniques.
   - about collaborating on an active project using Git and GitHub
   - about Docker and Nginx
  
-Lately, I've been spending time learning:
+Lately, I've been learning:
 - to play Irish tin whistle
-- to make better use of Vim
+- how to make better use of Vim
 
 ### I'm a musician
 
